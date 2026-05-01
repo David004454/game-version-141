@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/hdcheat.js": {
+      "runtime": "edge"
+    }
+  }
+}
